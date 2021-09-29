@@ -1277,7 +1277,7 @@ break
 case 'command':
  listMsg = {
  buttonText: 'LIST MENU',
- footerText: '*_© Pemuda Teknologi_*',
+ footerText: '*_© Katashi Hana_*',
  description: `Hai kak @${stod.split('@')[0]}, Silahkan pilih menu disini, Kalau lu makek Wa GB, dan gak muncul, Ketik .allmenu`,
  sections: [
                      {
